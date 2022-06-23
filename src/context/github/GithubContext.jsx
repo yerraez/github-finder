@@ -1,5 +1,5 @@
 import {createContext, useReducer} from "react"
-import githubReducer from "./GirhubReducer"
+import githubReducer from "./GithubReducer"
 
 const GithubContext = createContext()
 
